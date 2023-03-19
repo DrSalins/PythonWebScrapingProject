@@ -23,8 +23,14 @@ If you would like to try out this simple scraping project, or create a new versi
 git clone git@github.com:DrSalins/PythonWebScrapingProject.git
 ```
 
-## Skills
 
+## Skills Used To Create
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+</p>
 
 ## Running The Project
 
