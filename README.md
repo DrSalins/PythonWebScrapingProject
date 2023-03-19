@@ -20,7 +20,7 @@ We then print the results and then head to the next page by finding the class "n
 If you would like to try out this simple scraping project, or create a new version of it simply clone it to your computer, using the below command
 
 ```bash
-git clone git@github.com:DrSalins/PythonWebScrapingProject.git
+git clone git@github.com:DrSalins/webScraping_py.git
 ```
 
 
