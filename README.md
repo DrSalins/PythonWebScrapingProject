@@ -1,6 +1,6 @@
 # Python Web Scraping Project
 
-Python Web Scraping Project is a simple project which I created to teach a student how to make use of Beautiful Soup and Python with some programming concepts to scrape quotes from a website.
+webScraping_py is a simple project which I created to teach a student how to make use of Beautiful Soup and Python with some programming concepts to scrape quotes from a website.
 
 # Explanation
 ```bash 
