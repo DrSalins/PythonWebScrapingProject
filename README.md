@@ -28,7 +28,7 @@ git clone git@github.com:DrSalins/PythonWebScrapingProject.git
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,selenium" />
   </a>
 </p>
 
